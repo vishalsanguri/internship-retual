@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/intern-retual/static/css/main.b5deabc7.chunk.css",
+    "main.js": "/intern-retual/static/js/main.5b138b43.chunk.js",
+    "main.js.map": "/intern-retual/static/js/main.5b138b43.chunk.js.map",
+    "runtime-main.js": "/intern-retual/static/js/runtime-main.17af3109.js",
+    "runtime-main.js.map": "/intern-retual/static/js/runtime-main.17af3109.js.map",
+    "static/js/2.08b70016.chunk.js": "/intern-retual/static/js/2.08b70016.chunk.js",
+    "static/js/2.08b70016.chunk.js.map": "/intern-retual/static/js/2.08b70016.chunk.js.map",
+    "index.html": "/intern-retual/index.html",
+    "static/css/main.b5deabc7.chunk.css.map": "/intern-retual/static/css/main.b5deabc7.chunk.css.map",
+    "static/js/2.08b70016.chunk.js.LICENSE.txt": "/intern-retual/static/js/2.08b70016.chunk.js.LICENSE.txt",
+    "static/media/Body.css": "/intern-retual/static/media/img2.bdc848f3.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17af3109.js",
+    "static/js/2.08b70016.chunk.js",
+    "static/css/main.b5deabc7.chunk.css",
+    "static/js/main.5b138b43.chunk.js"
+  ]
+}
